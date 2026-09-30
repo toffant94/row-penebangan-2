@@ -1,0 +1,6 @@
+{
+  "name": "PLN ROW Trimming Manager",
+  "description": "Aplikasi Desktop Pemeliharaan Jaringan & Laporan Perabasan Pohon PLN (Tauri + React + Tailwind CSS + Rust Backend).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
